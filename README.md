@@ -1,4 +1,5 @@
 <!-- ![banner](header.png) -->
+### 👉 [Click to view my resume](https://docs.google.com/document/d/1zZodVBx2rHxPBSdWyBegGp5850VbA9vFPpOI_WIaKh8/edit?usp=sharing) 📄
 <!--
 **NavenduDuari/NavenduDuari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
