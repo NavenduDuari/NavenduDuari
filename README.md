@@ -39,12 +39,12 @@ Here are some ideas to get you started:
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 
 ### DSA 🧠 (click to view profile)
-> [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/NavenduDuari/)
+> [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/NavenduDuari/ "Click to view profile")
 >
-> [![Leetcode Stats](https://leetcode.card.workers.dev/?username=NavenduDuari)](https://leetcode.com/NavenduDuari/)
+> [![Leetcode Stats](https://leetcode.card.workers.dev/?username=NavenduDuari)](https://leetcode.com/NavenduDuari/ "Click to view profile")
 
 ### Contact me ☎ (click to connect)
-> [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/navendu-duari/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:navendu.duari@gmail.com)
+> [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/navendu-duari/ "Click to connect")
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:navendu.duari@gmail.com "Click to connect")
 ------------
 ![](https://komarev.com/ghpvc/?username=NavenduDuari&style=flat-square)
