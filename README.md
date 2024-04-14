@@ -1,6 +1,6 @@
-<!-- ![banner](header.png) -->
+<!-- ![banner](header.png)
 ### 👉 [Click to view my resume](https://docs.google.com/document/d/1zZodVBx2rHxPBSdWyBegGp5850VbA9vFPpOI_WIaKh8/edit?usp=sharing) 📄
-<!--
+
 **NavenduDuari/NavenduDuari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 ### Languages 📖
 > ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -46,5 +46,10 @@ Here are some ideas to get you started:
 ### Contact me ☎ (click to connect)
 > [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/navendu-duari/ "Click to connect")
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:navendu.duari@gmail.com "Click to connect")
+-->
+
+Navendu is a polyglot developer with 4 years of experience and a master's degree in computer science. He is noticed for the first principle thinking, completeness of projects, and ownership of responsibilities. Navendu is known for his data-driven approach to development, effectively utilizing data to optimize growth, cost, and productivity. He excels in collaborating with product teams, aligning engineering efforts with strategic product objectives to drive success.
+
+
 ------------
 ![](https://komarev.com/ghpvc/?username=NavenduDuari&style=flat-square)
